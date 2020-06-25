@@ -1,0 +1,49 @@
+POST /checkStatus 
+ sent Json 
+ {
+	uid: id 
+ }
+ Recieved
+ {
+	status: "pending" or "current"
+	spot :Int
+ }
+
+ 
+ POST /rentSpot
+ sent json
+ {
+	 "uid" : auth.currentUser!!.uid,
+	 "Date pending": " "
+     "spotNumber" : spotNum
+ }
+ Recieved
+ {
+ }
+
+POST /cancelRent
+
+sent json
+{
+	uid:uid,
+	spotnum:1
+}
+
+recieved 
+{
+}
+
+POST / openGarage
+
+send json 
+
+{
+	uid : uid
+}
+
+recieved json 
+{
+}
+
+ 
+ 

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396622889766",
+    "firebase_url": "https://erkenly-e817c.firebaseio.com",
+    "project_id": "erkenly-e817c",
+    "storage_bucket": "erkenly-e817c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396622889766:android:ddf49bba52ffa6ec2477e7",
+        "android_client_info": {
+          "package_name": "com.example.erkenly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396622889766-d1a7j1l3au11bc6gk5l8qlrcs7dm2kak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.erkenly",
+            "certificate_hash": "5e506dbb2a4551e167abdbd4c76d8b3da90750f6"
+          }
+        },
+        {
+          "client_id": "396622889766-jigjkh2i8mv63sq9k8a127bsi31dq1hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnZIGvuHme8oo3dwFPlfqQIiZrJ8NphoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396622889766-jigjkh2i8mv63sq9k8a127bsi31dq1hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
